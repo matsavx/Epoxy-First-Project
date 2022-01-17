@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EpoxyProject</string>
+
+    <string-array name="view_pager_items">
+        <item>У </item>
+        <item>Меня</item>
+        <item>Поехала</item>
+        <item>Крыша</item>
+    </string-array>
+
+</resources>
